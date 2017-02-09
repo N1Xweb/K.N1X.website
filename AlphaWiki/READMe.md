@@ -6,22 +6,23 @@ To provide wide perspective orientation for common queries and questions. A bett
 ## Information
 This service will be created as part of the n100x development series.
 
-### IP Declaration:
-NIKHIL PANDITA [itsN1X](http://its.n1x.website)
+#### IP Declaration:
+NIKHIL PANDITA 21091996
+- [itsN1X](http://its.n1x.website)
 
-### Copyright:  
+#### Copyright:  
 - All Rights Reserved. 
 
-### Era 
+#### Era 
 Circa 2017.
 
 
 ## Statistics and fare
 
-### Hits:
+#### Hits:
 coming soon
 
 
-### RPM
+#### RPM
 - $ : 
 - £ : 
