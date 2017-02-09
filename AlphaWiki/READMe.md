@@ -12,9 +12,14 @@ NIKHIL PANDITA 21091996
 
 #### Copyright:  
 - All Rights Reserved. 
+- - nest
+- - BIRD
+- den
+- - LION
+- - - CUBling
 
 #### Era 
-Circa 2017.
+- Circa 2017.
 
 
 ## Statistics and fare
