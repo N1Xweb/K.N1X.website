@@ -1,2 +1,8 @@
-# www.N1X.website-Knowledge
-The Real meaning of life.
+[k.N1X]
+> home
+    >>> about
+   
+* [Home](/home)
+ *  [Home>>Testim](/home/Testimonials)
+ *  [Home](/home)
+* [ALPHAwiki](/AlphaWiki)
