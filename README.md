@@ -2,7 +2,7 @@
 > home
     >>> about
    
-* [Home](/home)
- *  [Home>>Testim](/home/Testimonials)
- *  [Home](/home)
-* [ALPHAwiki](/AlphaWiki)
+* [Home](./home)
+ *  [Home>>Testim](./home/Testimonials)
+ *  [Home](./home)
+* [ALPHAwiki](./AlphaWiki)
